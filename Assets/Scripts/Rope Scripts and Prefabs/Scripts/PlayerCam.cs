@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//This is part 3 (this script is for the main camera object)//
+//How to use? Create an empty object as camera holder, then drop your main camera (player camera) in there//
+//after that drag and drop this script to the main camera// 
 public class PlayerCam : MonoBehaviour
 {
     public float senX;

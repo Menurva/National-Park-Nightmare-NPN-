@@ -1,7 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
-
+//This is part 2 of player movement//
+//Player will use this scipt to climb the rope//
+//after part 1: Playermovemnt then you just need to drag and drop this to the player object//
 public class Climbing : MonoBehaviour
 {
     [Header("References")]

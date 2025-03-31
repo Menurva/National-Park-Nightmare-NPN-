@@ -2,7 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-
+//This is part one of player movement//
+//create an object (this will be the player)// 
+//create an empty object called "Orientation" "CameraPos"//
+//set the player onject as their parent//
+//drag and drop scripts and objects to according boxes and you all set!//
 public class PlayerMovementTutorial : MonoBehaviour
 {
     [Header("Movement")]
